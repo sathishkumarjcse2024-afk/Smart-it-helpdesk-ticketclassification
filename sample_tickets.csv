@@ -1,0 +1,41 @@
+ticket_id,issue,category
+T001,I cannot log in to my email account after changing my password,Account Access
+T002,My account is locked and password reset does not work,Account Access
+T003,Please unlock my user account for the college portal,Account Access
+T004,Multi factor authentication code is not arriving,Account Access
+T005,I forgot my password and cannot access the system,Account Access
+T006,Laptop screen is black when I turn it on,Hardware
+T007,Keyboard keys are not working on my computer,Hardware
+T008,My desktop computer is making a loud fan noise,Hardware
+T009,The printer is jammed and will not print,Hardware
+T010,Laptop battery is not charging,Hardware
+T011,Please install the approved PDF reader software,Software
+T012,The operating system update failed on my computer,Software
+T013,Application crashes after software update,Software
+T014,I cannot open the spreadsheet program,Software
+T015,Antivirus software is showing an error,Software
+T016,Wireless network is disconnected in the office,Network
+T017,Internet is down for all users on this floor,Network
+T018,VPN connection keeps timing out,Network
+T019,Network is very slow during video meetings,Network
+T020,Cannot connect to the campus Wi-Fi,Network
+T021,Student portal shows an error after I sign in,Application Support
+T022,The finance application does not save my form,Application Support
+T023,Helpdesk web application page is blank,Application Support
+T024,Unable to submit a request in the ticketing application,Application Support
+T025,The attendance application displays incorrect information,Application Support
+T026,Email account access denied after several login attempts,Account Access
+T027,My computer mouse is not detected,Hardware
+T028,Need help configuring a software package,Software
+T029,DNS error prevents access to internal websites,Network
+T030,Business application reports an unexpected validation error,Application Support
+T031,Please reset my account password,Account Access
+T032,Laptop webcam is not detected during meetings,Hardware
+T033,Program installation failed with an error message,Software
+T034,VPN and office network connection are unavailable,Network
+T035,Customer records page fails to load in the application,Application Support
+T036,User login is blocked and account needs unlocking,Account Access
+T037,Monitor flickers and display cable seems loose,Hardware
+T038,The installed program freezes when I launch it,Software
+T039,Cannot reach internal server over the network,Network
+T040,Application export button does not create a report,Application Support
